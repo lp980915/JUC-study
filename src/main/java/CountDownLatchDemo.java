@@ -1,3 +1,5 @@
+package main.java;
+
 import java.util.concurrent.CountDownLatch;
 
 //要求班长最后走

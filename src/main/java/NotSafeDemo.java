@@ -1,3 +1,5 @@
+package main.java;
+
 import java.util.*;
 import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.CopyOnWriteArrayList;
@@ -22,9 +24,9 @@ import java.util.concurrent.CopyOnWriteArraySet;
  */
 public class NotSafeDemo {
     public static void main(String[] args) {
-//        NotSafeDemo.notSafeList();
-//        NotSafeDemo.notSafeSet();
-//        NotSafeDemo.notSafeMap();
+//        main.java.NotSafeDemo.notSafeList();
+//        main.java.NotSafeDemo.notSafeSet();
+//        main.java.NotSafeDemo.notSafeMap();
     }
 
     public static void notSafeList(){

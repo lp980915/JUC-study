@@ -1,3 +1,5 @@
+package main.java;
+
 /**
  * 函数式编程
  */

@@ -1,3 +1,5 @@
+package main.java;
+
 import java.util.concurrent.TimeUnit;
 //8种题目，理解锁
 public class Lock8Demo {
